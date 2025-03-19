@@ -1,0 +1,12 @@
+public class Conversation {
+    public static void main (String args[]){
+        System.out.println("Hello, How are you?");
+        System.out.println("Hi, I'm pansy");
+        System.out.println("Where are you from?");
+        System.out.println("I'm from Uttarakhand");
+        System.out.println("Where are you going?");
+        System.out.println("I'm going out for a walk");
+        System.out.println("What do you do?");
+        System.out.println("I'm a student persuing my master's degree.");
+    }
+}
